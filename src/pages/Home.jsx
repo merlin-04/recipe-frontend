@@ -36,7 +36,7 @@ const Home = () => {
                                 <p class="leading-relaxed">Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee ennui</p>
                                 <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
                                 <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm">HOLDEN CAULFIELD</h2>
-                                <p class="text-gray-500">Senior Product Designer</p>
+                                <p class="text-gray-500">Fashion Designer</p>
                             </div>
                         </div>
                         <div class="lg:w-1/3 lg:mb-0 mb-6 p-4">
@@ -45,7 +45,7 @@ const Home = () => {
                                 <p class="leading-relaxed">Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee ennui</p>
                                 <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
                                 <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm">ALPER KAMU</h2>
-                                <p class="text-gray-500">UI Develeoper</p>
+                                <p class="text-gray-500">House Wife</p>
                             </div>
                         </div>
                         <div class="lg:w-1/3 lg:mb-0 p-4">
@@ -54,7 +54,7 @@ const Home = () => {
                                 <p class="leading-relaxed">Edison bulb retro cloud bread echo park, helvetica stumptown taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee ennui </p>
                                 <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
                                 <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm">HENRY LETHAM</h2>
-                                <p class="text-gray-500">CTO</p>
+                                <p class="text-gray-500">Business Professional</p>
                             </div>
                         </div>
                     </div>
