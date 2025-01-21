@@ -6,7 +6,6 @@ import { useNavigate } from 'react-router-dom';
 
 const Add = () => {
 
-  const navigate = useNavigate()
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const toggleModal = () => {
@@ -27,7 +26,7 @@ const Add = () => {
         await axios.post(`${SERVERURL}/recipes`, newRecipe);
         alert("Recipe Created Successfully!");
         toggleModal()
-        navigate('/')
+        
       } catch (error) {
         console.error("Error creating recipe:", error);
       }
@@ -67,7 +66,7 @@ const Add = () => {
             className="bg-white p-6 rounded-lg w-96"
             onClick={(e) => e.stopPropagation()} 
           >
-            <h2 className="text-xl font-semibold mb-4">Modal Title</h2>
+            <h2 className="text-xl font-semibold mb-4">Add Recipe</h2>
 
             <form>
               <div className="mb-4">
